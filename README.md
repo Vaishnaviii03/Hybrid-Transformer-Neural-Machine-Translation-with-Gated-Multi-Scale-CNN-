@@ -214,4 +214,3 @@ Hybrid Transformer NMT Research
 
 ---
 
-> 📄 **Note:** This README serves as both documentation and the official project description for linking in your **research paper or academic project submission**.
